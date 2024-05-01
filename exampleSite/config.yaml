@@ -56,7 +56,6 @@ params:
   useBootstrapCDN: false
 
   useGoogleFonts: true
-  useInternalTemplates: true
 
   theme:
     disableThemeToggle: false
